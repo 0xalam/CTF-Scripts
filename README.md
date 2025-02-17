@@ -1,3 +1,3 @@
 # CTF-Scripts
 
-## Contrains Scripts collected while playing CTF
+## Scripts collected while playing CTF
